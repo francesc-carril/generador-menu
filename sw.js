@@ -1,4 +1,4 @@
-const CACHE = 'menu-pwa-v5-1';
+const CACHE = 'menu-pwa-v6-1';
 
 const CORE = [
   './',
